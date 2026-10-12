@@ -37,3 +37,4 @@ Në kanalin e caktuar shkruaj `/setup-roles` (duhet leja Manage Roles). Paneli m
 
 Shtypja e të njëjtit buton përsëri e heq rolin.
 # discord-role-bot
+# discord-role-bot
