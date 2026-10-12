@@ -1,0 +1,32 @@
+{
+  "panels": [
+    {
+      "id": "generation",
+      "channelId": "1386692105178583142",
+      "title": "Zgjidh gjeneratën tënde",
+      "description": "Shtyp një buton. Mund të kesh vetëm një gjeneratë. Specializimi nuk hiqet.",
+      "exclusiveRoles": [
+        { "id": "1386691382680227901", "label": "<21", "style": "Primary" },
+        { "id": "1386691437068030002", "label": "21/22", "style": "Primary" },
+        { "id": "1386691487969841207", "label": "22/23", "style": "Primary" },
+        { "id": "1386691654987153408", "label": "24/25", "style": "Primary" },
+        { "id": "1394755954092019773", "label": "25/26", "style": "Primary" },
+        { "id": "1522002591847026798", "label": "26/27", "style": "Primary" },
+        { "id": "1424736124101726310", "label": "Master", "style": "Success" }
+      ]
+    },
+    {
+      "id": "specialization",
+      "channelId": "1388266910314922065",
+      "title": "Zgjidh specializimin tënd",
+      "description": "Shtyp një buton. Mund të kesh vetëm një specializim. Gjenerata nuk hiqet.",
+      "exclusiveRoles": [
+        { "id": "1388268490548580555", "label": "Inxhinieria Softwerike", "style": "Primary" },
+        { "id": "1388268542935302256", "label": "Web Developing", "style": "Primary" },
+        { "id": "1388268591987687626", "label": "Inxhinieria e Komunikimit", "style": "Primary" },
+        { "id": "1388268638489804862", "label": "Inxhinieria e të dhënave & AI", "style": "Primary" },
+        { "id": "1388268692298797136", "label": "Siguria Kibernetike", "style": "Primary" }
+      ]
+    }
+  ]
+}
